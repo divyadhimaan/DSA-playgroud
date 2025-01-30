@@ -32,3 +32,5 @@ MEDIUM
 HARD
 
 1. [Word Ladder](./graphs/word-ladder-1)
+2. [Alien Dictionary](./graphs/alien-dictionary.md)
+3. 
