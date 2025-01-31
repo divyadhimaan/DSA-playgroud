@@ -20,6 +20,8 @@ EASY
 
 
 MEDIUM
+
+- Topological Sort/BFS/DFS
 1. [Course Schedule - I](./graphs/course_schedule-1.md)
 2. [Course Schedule - II](./graphs/course_schedule-2.md)
 3. [Course Schedule - IV](./graphs/course_schedule-4.md)
@@ -28,6 +30,14 @@ MEDIUM
 6. [Surrounded Regions](./graphs/surrounded-regions.md)
 7. [Rotten Oranges](./graphs/rotten-tomatoes.md)
 8. [Eventual Safe States](./graphs/eventual-safe-states.md)
+
+- DSU
+1.  [Redundant Connections](./graphs/redundant-connections.md)
+
+- Path Finding - Dijkstra's/BFS/priority_queue
+1. [Path with minimum effort](./graphs/path-with-maximum-effort.md)
+2. [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)
+3. 
 
 HARD
 
