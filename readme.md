@@ -47,6 +47,9 @@ Features:
 - [Climbing Stairs](./dynamic-programming/climbing-stairs.md)  
 - [Frog Jump](./dynamic-programming/frog-jump.md)
 - [Frog Jump with k distance](./dynamic-programming/frog-jump-k-distance.md)
+- [House Robber I](./dynamic-programming/house-robber-i.md)
+- [House Robber II](./dynamic-programming/house-robber-ii.md)
+- [House Robber III](./dynamic-programming/house-robber-iii.md)
 
 <!-- ### 2D/3D DP
 
