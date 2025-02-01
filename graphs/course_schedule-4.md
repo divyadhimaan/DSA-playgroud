@@ -39,7 +39,7 @@ Time Complexity: ```O(Q *(N+P))```, where Q-> number of queries, N -> number of 
 
 Space Complexity: ```O(N+P)```, for graph and queue
 
-```
+```cpp
 class Solution {
 public:
 

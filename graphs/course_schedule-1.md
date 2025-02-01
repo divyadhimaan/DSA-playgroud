@@ -13,7 +13,7 @@ Time Complexity - ```O(N+E)```, where V is the total number of courses, E is the
 
 Space Complexity - ```O(N) + O(N)```
 
-```
+```cpp
 class Solution {
 public:
     bool checkDFS(vector<vector<int>> &adj, vector<int> &coursesDone, vector<int> &coursesToDo,int currCourse)
@@ -63,7 +63,7 @@ Time Complexity - ```O(N+E)```, where V is the total number of courses, E is the
 
 Space Complexity - ```O(N) + O(N)```
 
-```
+```cpp
 class Solution {
 public:
 

@@ -9,7 +9,7 @@ Practice [Link](https://leetcode.com/problems/climbing-stairs/description/)
 ## Implementation
 
 ### A. Recursive Approach
-```
+```cpp
 
 class Solution {
 public:
@@ -30,7 +30,7 @@ public:
 
 ### B. Tabulation Solution
 
-```
+```cpp
 class Solution {
 public:
 
@@ -58,7 +58,7 @@ public:
 
 ### Tabulation : Space Optimized
 
-```
+```cpp
 class Solution {
 public:
 

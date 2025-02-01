@@ -4,7 +4,7 @@ Practice [Link](https://leetcode.com/problems/flood-fill/description/)
 
 ### Implementation - BFS
 
-```
+```cpp
 class Solution {
 public:
     vector<int> dx = {0,0,1,-1};
@@ -53,7 +53,7 @@ public:
 
 ### Implementation - DFS
 
-```
+```cpp
 class Solution {
 public:
     vector<int> dx={1,0,-1,0};

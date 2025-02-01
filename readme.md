@@ -46,8 +46,9 @@ Features:
 
 - [Climbing Stairs](./dynamic-programming/climbing-stairs.md)  
 - [Frog Jump](./dynamic-programming/frog-jump.md)
+- [Frog Jump with k distance](./dynamic-programming/frog-jump-k-distance.md)
 
-### 2D/3D DP
+<!-- ### 2D/3D DP
 
 
 ### DP on Subsequences
@@ -60,4 +61,8 @@ Features:
 
 ### Partition DP
 
-### DP on Squares
+### DP on Squares -->
+
+
+## Design 
+- [LRU Cache](./design/lru-cache.md)

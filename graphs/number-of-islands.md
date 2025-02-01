@@ -15,7 +15,7 @@ Practice [Link](https://leetcode.com/problems/number-of-islands/description/)
 
 
 ## Implementation
-```
+```cpp
 class Solution {
 public:
     vector<int> dx={1,-1,0,0};

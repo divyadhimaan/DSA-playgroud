@@ -31,7 +31,7 @@ Practice [Link](https://leetcode.com/problems/find-eventual-safe-states/descript
 
 ### Implementation - DFS
 
-```
+```cpp
 class Solution {
 public:
     bool checkCycle(vector<vector<int>> &graph, vector<bool> &visited, vector<bool> &inStack, int node)

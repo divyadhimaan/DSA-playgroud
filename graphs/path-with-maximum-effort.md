@@ -17,7 +17,7 @@ Practice [Link](https://leetcode.com/problems/path-with-minimum-effort/)
 
 ### Implementation
 
-```
+```cpp
 typedef pair<int,pair<int,int>> ppi;
 class Solution {
 public:

@@ -10,7 +10,7 @@ Practice [Link](https://www.geeksforgeeks.org/problems/geek-jump/1?itm_source=ge
 ## Implementation
 
 ### A. Recursive Approach
-```
+```cpp
 
 int minCostUtil(vector<int>& height, int n)
   {
@@ -38,7 +38,7 @@ int minCostUtil(vector<int>& height, int n)
 
 ### B. Tabulation Solution
 
-```
+```cpp
     int minCost(vector<int>& height) {
         int n = height.size();
         vector<int> dp(n);

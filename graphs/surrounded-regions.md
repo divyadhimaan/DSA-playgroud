@@ -25,7 +25,7 @@ If we start traversing all the boundary touching groups, in the end the inner '0
 * In the end, traverse the grid and find all the cells that have '0' and are not marked visited
 
 ## Implementation
-```
+```cpp
 class Solution {
 public:
     vector<int> dx = {-1,1,0,0};

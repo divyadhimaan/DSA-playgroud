@@ -29,7 +29,7 @@ Hint: Consider two consecutive words in a dictionary, and decide why the first o
 
 
 ## Implementation
-```
+```cpp
 
 void createAdjListAndIndegree(vector<string> dict, vector<vector<int>> &adj, vector<int> &inDegree)
     {

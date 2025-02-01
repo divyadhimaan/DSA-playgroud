@@ -35,7 +35,7 @@ Time Complexity: ```O(N+P)```, where N-> number of courses, P-> prerequisites
 
 Space Complexity: ```O(N+P)```, for graph and queue
 
-```
+```cpp
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {

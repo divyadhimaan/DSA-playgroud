@@ -12,7 +12,7 @@ Practice [Link](https://leetcode.com/problems/shortest-path-in-binary-matrix/des
 
 ### Implementation
 
-```
+```cpp
 class Solution {
 public:
     vector<int> dx = {1, -1, 0, 0, 1, -1, 1, -1};

@@ -18,7 +18,7 @@ Practice [Link](https://leetcode.com/problems/number-of-provinces/description/)
 
 
 ## Implementation
-```
+```cpp
 class Solution {
 public:
     void DFS(vector<vector<int>>& isConnected, vector<int> &visited, int source)

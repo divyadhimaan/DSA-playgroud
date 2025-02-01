@@ -11,7 +11,7 @@ Practice [Link](https://leetcode.com/problems/redundant-connection/description/?
 
 ### Implementation
 
-```
+```cpp
 class DSU{
     vector<int> parent;
     vector<int> rank;
