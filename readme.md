@@ -9,38 +9,55 @@ Features:
 - Continuous updates with new problems
 
 
-## Problems
+# Problems
 
-### Graphs
-
-EASY
-
-1. [Flood Fill](./graphs/flood-fill.md)
+## Graphs
 
 
+### Easy
 
-MEDIUM
+- [Flood Fill](./graphs/flood-fill.md)  
 
-- Topological Sort/BFS/DFS
-1. [Course Schedule - I](./graphs/course_schedule-1.md)
-2. [Course Schedule - II](./graphs/course_schedule-2.md)
-3. [Course Schedule - IV](./graphs/course_schedule-4.md)
-4. [Number of Islands](./graphs/number-of-islands.md) (Matrix version)
-5. [Number of Provinces](./graphs/number-of-provinces.md) (Graph version)
-6. [Surrounded Regions](./graphs/surrounded-regions.md)
-7. [Rotten Oranges](./graphs/rotten-tomatoes.md)
-8. [Eventual Safe States](./graphs/eventual-safe-states.md)
+### Medium
 
-- DSU
-1.  [Redundant Connections](./graphs/redundant-connections.md)
+- [Course Schedule - I](./graphs/course_schedule-1.md)  
+- [Course Schedule - II](./graphs/course_schedule-2.md)  
+- [Course Schedule - IV](./graphs/course_schedule-4.md)  
+- [Number of Islands (Matrix version)](./graphs/number-of-islands.md)  
+- [Number of Provinces (Graph version)](./graphs/number-of-provinces.md)  
+- [Surrounded Regions](./graphs/surrounded-regions.md)  
+- [Rotten Oranges](./graphs/rotten-tomatoes.md)  
+- [Eventual Safe States](./graphs/eventual-safe-states.md)  
+- [Redundant Connections](./graphs/redundant-connections.md)  
+- [Path with Minimum Effort](./graphs/path-with-maximum-effort.md)  
+- [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)  
 
-- Path Finding - Dijkstra's/BFS/priority_queue
-1. [Path with minimum effort](./graphs/path-with-maximum-effort.md)
-2. [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)
-3. 
+### Hard
 
-HARD
+- [Word Ladder](./graphs/word-ladder-1)  
+- [Alien Dictionary](./graphs/alien-dictionary.md)  
 
-1. [Word Ladder](./graphs/word-ladder-1)
-2. [Alien Dictionary](./graphs/alien-dictionary.md)
-3. 
+
+
+## Dynamic Programming
+
+
+### 1D DP
+
+- [Climbing Stairs](./dynamic-programming/climbing-stairs.md)  
+- [Frog Jump](./dynamic-programming/frog-jump.md)
+
+### 2D/3D DP
+
+
+### DP on Subsequences
+
+### DP on Strings
+
+### DP on Stocks
+
+### DP on LIS
+
+### Partition DP
+
+### DP on Squares
