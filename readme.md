@@ -51,20 +51,28 @@ Features:
 - [House Robber II](./dynamic-programming/house-robber-ii.md)
 - [House Robber III](./dynamic-programming/house-robber-iii.md)
 
-<!-- ### 2D/3D DP
+### 2D/3D DP
+
+- [Ninja Training](./dynamic-programming/ninja-training.md)
+- [Unique Paths](./dynamic-programming/unique-paths.md)
 
 
 ### DP on Subsequences
 
-### DP on Strings
+- [Longest Increasing Subsequence](./dynamic-programming/longest-increasing-sequence.md)
+- [Print Longest Increasing Subsequence](./dynamic-programming/print-longest-increasing-subsequence.md)
+- [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
+- [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
 
-### DP on Stocks
+<!-- ### DP on Strings -->
 
-### DP on LIS
+<!-- ### DP on Stocks -->
 
-### Partition DP
+<!-- ### DP on LIS -->
 
-### DP on Squares -->
+<!-- ### Partition DP -->
+
+<!-- ### DP on Squares -->
 
 
 ## Design 
