@@ -37,8 +37,6 @@ Features:
 - [Word Ladder](./graphs/word-ladder-1)  
 - [Alien Dictionary](./graphs/alien-dictionary.md)  
 
-
-
 ## Dynamic Programming
 
 
@@ -51,11 +49,11 @@ Features:
 - [House Robber II](./dynamic-programming/house-robber-ii.md)
 - [House Robber III](./dynamic-programming/house-robber-iii.md)
 
-### 2D/3D DP
+### 2D/3D DP - DP on Grids
 
 - [Ninja Training](./dynamic-programming/ninja-training.md)
 - [Unique Paths](./dynamic-programming/unique-paths.md)
-
+- [Minimum Path Sum](./dynamic-programming/minimum-path-sum.md)
 
 ### DP on Subsequences
 
@@ -64,7 +62,11 @@ Features:
 - [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
 - [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
 
-<!-- ### DP on Strings -->
+### DP on Strings
+
+- [Longest Common Subsequences](./dynamic-programming/longest-common-subsequence.md)
+- [Print all longest common subsequence](./dynamic-programming/print-all-lcs.md)
+- [Edit Distance](./dynamic-programming/edit-distance.md)
 
 <!-- ### DP on Stocks -->
 
@@ -73,6 +75,10 @@ Features:
 <!-- ### Partition DP -->
 
 <!-- ### DP on Squares -->
+
+### Misc
+
+- [0-1 Knapsack](./dynamic-programming/0-1-knapsack.md)
 
 
 ## Design 
