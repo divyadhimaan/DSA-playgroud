@@ -61,6 +61,8 @@ Features:
 - [Print Longest Increasing Subsequence](./dynamic-programming/print-longest-increasing-subsequence.md)
 - [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
 - [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
+- [Coin change I](./dynamic-programming/coin-change.md)
+- [Coin Change II](./dynamic-programming/coin-change-2.md)
 
 ### DP on Strings
 
