@@ -56,6 +56,8 @@ Features:
 - [Unique Paths II](./dynamic-programming/unique-paths-ii.md)
 - [Minimum Falling Path Sum](./dynamic-programming/minimum-falling-path-sum.md)
 - [Minimum Path Sum](./dynamic-programming/minimum-path-sum.md)
+- [Cherry Pickup I](./dynamic-programming/cherry-pickup-i.md)
+- [Cherry Pickup II](./dynamic-programming/cherry-pickup-ii.md)
 
 ### DP on Subsequences
 - [Subset Sum equal to target](./dynamic-programming/subset-sum-equal-target.md)
