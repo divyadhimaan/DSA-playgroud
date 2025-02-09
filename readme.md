@@ -54,6 +54,7 @@ Features:
 - [Ninja Training](./dynamic-programming/ninja-training.md)
 - [Unique Paths](./dynamic-programming/unique-paths.md)
 - [Unique Paths II](./dynamic-programming/unique-paths-ii.md)
+- [Unique Paths III](./dynamic-programming/unique-paths-iii.md)
 - [Minimum Falling Path Sum](./dynamic-programming/minimum-falling-path-sum.md)
 - [Minimum Path Sum](./dynamic-programming/minimum-path-sum.md)
 - [Cherry Pickup I](./dynamic-programming/cherry-pickup-i.md)
