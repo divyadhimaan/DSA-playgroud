@@ -53,14 +53,15 @@ Features:
 
 - [Ninja Training](./dynamic-programming/ninja-training.md)
 - [Unique Paths](./dynamic-programming/unique-paths.md)
+- [Unique Paths II](./dynamic-programming/unique-paths-ii.md)
+- [Minimum Falling Path Sum](./dynamic-programming/minimum-falling-path-sum.md)
 - [Minimum Path Sum](./dynamic-programming/minimum-path-sum.md)
 
 ### DP on Subsequences
+- [Subset Sum equal to target](./dynamic-programming/subset-sum-equal-target.md)
+- [Partition Equal Subset Sum](./dynamic-programming/partition-equal-subset-sum.md)
+- [Count Subsets with Sum k](./dynamic-programming/count-subsets-with-sum-k.md)
 
-- [Longest Increasing Subsequence](./dynamic-programming/longest-increasing-sequence.md)
-- [Print Longest Increasing Subsequence](./dynamic-programming/print-longest-increasing-subsequence.md)
-- [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
-- [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
 - [Coin change I](./dynamic-programming/coin-change.md)
 - [Coin Change II](./dynamic-programming/coin-change-2.md)
 
@@ -72,7 +73,11 @@ Features:
 
 <!-- ### DP on Stocks -->
 
-<!-- ### DP on LIS -->
+### DP on LIS
+- [Longest Increasing Subsequence](./dynamic-programming/longest-increasing-sequence.md)
+- [Print Longest Increasing Subsequence](./dynamic-programming/print-longest-increasing-subsequence.md)
+- [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
+- [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
 
 <!-- ### Partition DP -->
 
