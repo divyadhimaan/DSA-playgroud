@@ -18,6 +18,7 @@ Features:
 - [Next Greater Element II](./stacks-and-queues/next-greater-element-ii.md)
 - [Next Smaller Element](./stacks-and-queues/next-smaller-element.md)
 - [Number of Next Greater Elements](./stacks-and-queues/number-of-next-greater-elements.md)
+- [Trapping Rain Water](./stacks-and-queues/trapping-rain-water.md)
 
 
 ## Graphs
