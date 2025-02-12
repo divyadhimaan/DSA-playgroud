@@ -11,6 +11,12 @@ Features:
 
 # Problems
 
+## Stacks and Queues
+
+### Monotonic Stack/Queue [IMP]
+- [Next Greater Element](./stacks-and-queues/next-greater-element.md)
+
+
 ## Graphs
 
 
