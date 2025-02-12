@@ -14,7 +14,10 @@ Features:
 ## Stacks and Queues
 
 ### Monotonic Stack/Queue [IMP]
-- [Next Greater Element](./stacks-and-queues/next-greater-element.md)
+- [Next Greater Element I](./stacks-and-queues/next-greater-element.md)
+- [Next Greater Element II](./stacks-and-queues/next-greater-element-ii.md)
+- [Next Smaller Element](./stacks-and-queues/next-smaller-element.md)
+- [Number of Next Greater Elements](./stacks-and-queues/number-of-next-greater-elements.md)
 
 
 ## Graphs

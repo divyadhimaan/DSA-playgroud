@@ -12,7 +12,7 @@ For each 0 <= i < nums1.length, find the index j such that nums1[i] == nums2[j] 
 Return an array ans of length nums1.length such that ans[i] is the next greater element as described above.
 
 ## Intiution
--  We maintain a stack called monotonic stack
+-  We maintain a stack called monotonic stack (descreasing)
 - Traverse the second array from the back and store the respected greater elements in map. 
 - Finally, we map the first array elements in the map data structure and return them.
 
