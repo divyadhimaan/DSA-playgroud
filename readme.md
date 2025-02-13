@@ -36,7 +36,7 @@ Features:
 - [Number of Islands (Matrix version)](./graphs/number-of-islands.md)  
 - [Number of Provinces (Graph version)](./graphs/number-of-provinces.md)  
 - [Surrounded Regions](./graphs/surrounded-regions.md)  
-- [Rotten Oranges](./graphs/rotten-tomatoes.md)  
+- [Rotten Oranges](./graphs/rotten-oranges.md)  
 - [Eventual Safe States](./graphs/eventual-safe-states.md)  
 - [Redundant Connections](./graphs/redundant-connections.md)  
 - [Path with Minimum Effort](./graphs/path-with-maximum-effort.md)  
