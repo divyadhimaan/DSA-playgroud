@@ -87,6 +87,7 @@ Features:
 ### DP on Stocks
 - [ Best Time to Buy and Sell Stocks - I](./dynamic-programming/buy-sell-stocks-i.md)
 - [ Best Time to Buy and Sell Stocks - II](./dynamic-programming/buy-sell-stocks-ii.md)
+- [ Best Time to Buy and Sell Stocks - III](./dynamic-programming/buy-sell-stocks-iii.md)
 
 ### DP on LIS
 - [Longest Increasing Subsequence](./dynamic-programming/longest-increasing-sequence.md)
