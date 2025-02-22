@@ -71,10 +71,10 @@ Features:
 - [Cherry Pickup II](./dynamic-programming/cherry-pickup-ii.md)
 
 ### DP on Subsequences
+
 - [Subset Sum equal to target](./dynamic-programming/subset-sum-equal-target.md)
 - [Partition Equal Subset Sum](./dynamic-programming/partition-equal-subset-sum.md)
 - [Count Subsets with Sum k](./dynamic-programming/count-subsets-with-sum-k.md)
-
 - [Coin change I](./dynamic-programming/coin-change.md)
 - [Coin Change II](./dynamic-programming/coin-change-2.md)
 
