@@ -89,3 +89,73 @@ public:
 >
 > Space Complexity: O(2 * 3 * n) + O(n) (Recursive stack)
 
+## Tabulation
+
+```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int transactions = 2;
+        vector<vector<vector<int>>> dp(prices.size()+1, vector<vector<int>> (2, vector<int>(transactions+1, 0)));
+
+        for(int idx=prices.size()-1;idx>=0;idx--)
+        {
+            for(int buy=0;buy<=1;buy++)
+            {
+                for(int t=1;t<=2;t++)
+                {
+                    int profit=0;
+                    if(buy)
+                        profit = max(dp[idx+1][1][t], -prices[idx] + dp[idx+1][0][t]);
+                    else
+                        profit = max(dp[idx+1][0][t], prices[idx] + dp[idx+1][1][t-1]);
+                    dp[idx][buy][t] = profit;
+                }   
+            }
+        }
+
+        return dp[0][1][2];
+    }
+};
+```
+
+> Time Complexity: O(2 * 3 n) ~ O(n)
+>
+> Space Complexity: O(2 * 3 * n)
+
+## Space Optimized Tabulation
+
+```cpp
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+        int transactions = 2;
+
+        vector<vector<int>> next(2, vector<int>(transactions+1, 0));
+        vector<vector<int>> curr(2, vector<int>(transactions+1, 0));
+
+        for(int idx=prices.size()-1;idx>=0;idx--)
+        {
+            for(int buy=0;buy<=1;buy++)
+            {
+                for(int t=1;t<=2;t++)
+                {
+                    int profit=0;
+                    if(buy)
+                        profit = max(next[1][t], -prices[idx] + next[0][t]);
+                    else
+                        profit = max(next[0][t], prices[idx] + next[1][t-1]);
+                    curr[buy][t] = profit;
+                }   
+            }
+            next = curr;
+        }
+
+        return next[1][2];
+    }
+};
+```
+
+> Time Complexity: O(2 * 3 n) ~ O(n)
+>
+> Space Complexity: O(2 * 3)
