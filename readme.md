@@ -83,6 +83,8 @@ Features:
 - [Longest Common Subsequences](./dynamic-programming/longest-common-subsequence.md)
 - [Print all longest common subsequence](./dynamic-programming/print-all-lcs.md)
 - [Edit Distance](./dynamic-programming/edit-distance.md)
+- [Longest Palindromic Subsequence](./dynamic-programming/longest-palindromic-subsequence.md)
+- [Minimum Insertion Steps to make string palindrome](./dynamic-programming/minimum-insertion-for-palindrome.md)
 
 ### DP on Stocks
 - [ Best Time to Buy and Sell Stocks - I](./dynamic-programming/buy-sell-stocks-i.md)
