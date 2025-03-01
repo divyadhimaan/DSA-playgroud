@@ -100,6 +100,7 @@ Features:
 - [Print Longest Increasing Subsequence](./dynamic-programming/print-longest-increasing-subsequence.md)
 - [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
 - [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
+- [Number of Longest Increasing Subsequence](./dynamic-programming//number-of-longest-increasing-subsequence.md)
 
 <!-- ### Partition DP -->
 
