@@ -39,7 +39,7 @@ public:
             {
                 if(nums[i]>nums[j]){
                     if(lis[j]+1 > lis[i]){
-                        lis[i] = max(lis[i], lis[j]+1);
+                        lis[i] = lis[j]+1;
                         count[i] = count[j];
                     }else if(lis[j]+1==lis[i]){
                         count[i] += count[j];
