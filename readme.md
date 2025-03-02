@@ -102,7 +102,8 @@ Features:
 - [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
 - [Number of Longest Increasing Subsequence](./dynamic-programming//number-of-longest-increasing-subsequence.md)
 
-<!-- ### Partition DP -->
+### Partition DP
+- [Matrix Chain Multiplication](./dynamic-programming/matrix-chain-multiplication.md)
 
 <!-- ### DP on Squares -->
 
