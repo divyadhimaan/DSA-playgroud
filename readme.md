@@ -104,6 +104,8 @@ Features:
 
 ### Partition DP
 - [Matrix Chain Multiplication](./dynamic-programming/matrix-chain-multiplication.md)
+- [Minimum Cost of cut the stick](./dynamic-programming/minimum-cost-to-cut-the-stick.md)
+- [Burst Balloons](./dynamic-programming/burst-balloons.md)
 
 <!-- ### DP on Squares -->
 
