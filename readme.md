@@ -112,6 +112,7 @@ Features:
 ### Misc
 
 - [0-1 Knapsack](./dynamic-programming/0-1-knapsack.md)
+- [Egg Dropping](./dynamic-programming/egg-drop.md)
 
 
 ## Design 
