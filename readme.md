@@ -20,9 +20,7 @@ Features:
 - [Number of Next Greater Elements](./stacks-and-queues/number-of-next-greater-elements.md)
 - [Trapping Rain Water](./stacks-and-queues/trapping-rain-water.md)
 
-
 ## Graphs
-
 
 ### Easy
 
@@ -77,6 +75,8 @@ Features:
 - [Count Subsets with Sum k](./dynamic-programming/count-subsets-with-sum-k.md)
 - [Coin change I](./dynamic-programming/coin-change.md)
 - [Coin Change II](./dynamic-programming/coin-change-2.md)
+- [Unbound Knapsack](./dynamic-programming/unbound-knapsack.md)
+- [ Rod Cutting](./dynamic-programming/rod-cutting.md)
 
 ### DP on Strings
 
