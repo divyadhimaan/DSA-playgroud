@@ -107,7 +107,8 @@ Features:
 - [Minimum Cost of cut the stick](./dynamic-programming/minimum-cost-to-cut-the-stick.md)
 - [Burst Balloons](./dynamic-programming/burst-balloons.md)
 
-<!-- ### DP on Squares -->
+### DP on Squares
+-
 
 ### Misc
 
