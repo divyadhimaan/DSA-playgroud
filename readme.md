@@ -39,6 +39,7 @@ Features:
 - [Redundant Connections](./graphs/redundant-connections.md)  
 - [Path with Minimum Effort](./graphs/path-with-maximum-effort.md)  
 - [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)  
+- [Word Search](./graphs/word-search.md)
 
 ### Hard
 
