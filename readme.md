@@ -112,7 +112,8 @@ Features:
 - [Burst Balloons](./dynamic-programming/burst-balloons.md)
 
 ### DP on Squares
--
+- [Maximum Rectangle Area with all 1s](./dynamic-programming/maximal-rectangle.md)
+- [Count square submatrices with all ones](./dynamic-programming/count-squares-with-1s.md)
 
 ### Misc
 
