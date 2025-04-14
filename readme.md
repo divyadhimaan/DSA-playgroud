@@ -22,7 +22,7 @@ Features:
 - [Next Smaller Element](./stacks-and-queues/next-smaller-element.md)
 - [Number of Next Greater Elements](./stacks-and-queues/number-of-next-greater-elements.md)
 - [Trapping Rain Water](./stacks-and-queues/trapping-rain-water.md)
-
+- [Largest rectangle in a Histogram](./stacks-and-queues/largest-rectangle-in-histogram.md)
 ## Graphs
 
 ### Easy
