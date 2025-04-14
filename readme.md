@@ -121,5 +121,10 @@ Features:
 - [Egg Dropping](./dynamic-programming/egg-drop.md)
 
 
+
+## Strings
+
+- [Minimum Add to Make Parentheses Valid](./strings/minimum-add-to-make-valid-paranthesis.md)
+
 ## Design 
 - [LRU Cache](./design/lru-cache.md)
