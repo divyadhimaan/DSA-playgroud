@@ -14,9 +14,15 @@ Features:
 ## Linked List
 - [Remove Nth node from End](./linkedList/remove-nth-node-from-end.md)
 
+## Binary Trees
+
+#### Hard
+
+- [All Nodes Distance K in Binary Tree](./binary-trees/all-nodes-distance-k.md)
+
 ## Stacks and Queues
 
-### Monotonic Stack/Queue [IMP]
+#### Monotonic Stack/Queue [IMP]
 - [Next Greater Element I](./stacks-and-queues/next-greater-element.md)
 - [Next Greater Element II](./stacks-and-queues/next-greater-element-ii.md)
 - [Next Smaller Element](./stacks-and-queues/next-smaller-element.md)
@@ -25,11 +31,11 @@ Features:
 - [Largest rectangle in a Histogram](./stacks-and-queues/largest-rectangle-in-histogram.md)
 ## Graphs
 
-### Easy
+#### Easy
 
 - [Flood Fill](./graphs/flood-fill.md)  
 
-### Medium
+#### Medium
 
 - [Course Schedule - I](./graphs/course_schedule-1.md)  
 - [Course Schedule - II](./graphs/course_schedule-2.md)  
@@ -44,7 +50,7 @@ Features:
 - [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)  
 - [Word Search](./graphs/word-search.md)
 
-### Hard
+#### Hard
 
 - [Word Ladder](./graphs/word-ladder-1)  
 - [Alien Dictionary](./graphs/alien-dictionary.md)  
@@ -52,7 +58,7 @@ Features:
 ## Dynamic Programming
 
 
-### 1D DP
+#### 1D DP
 
 - [Climbing Stairs](./dynamic-programming/climbing-stairs.md)  
 - [Frog Jump](./dynamic-programming/frog-jump.md)
@@ -61,7 +67,7 @@ Features:
 - [House Robber II](./dynamic-programming/house-robber-ii.md)
 - [House Robber III](./dynamic-programming/house-robber-iii.md)
 
-### 2D/3D DP - DP on Grids
+#### 2D/3D DP - DP on Grids
 
 - [Ninja Training](./dynamic-programming/ninja-training.md)
 - [Unique Paths](./dynamic-programming/unique-paths.md)
@@ -72,7 +78,7 @@ Features:
 - [Cherry Pickup I](./dynamic-programming/cherry-pickup-i.md)
 - [Cherry Pickup II](./dynamic-programming/cherry-pickup-ii.md)
 
-### DP on Subsequences
+#### DP on Subsequences
 
 - [Subset Sum equal to target](./dynamic-programming/subset-sum-equal-target.md)
 - [Partition Equal Subset Sum](./dynamic-programming/partition-equal-subset-sum.md)
@@ -82,7 +88,7 @@ Features:
 - [Unbound Knapsack](./dynamic-programming/unbound-knapsack.md)
 - [ Rod Cutting](./dynamic-programming/rod-cutting.md)
 
-### DP on Strings
+#### DP on Strings
 
 - [Longest Common Subsequences](./dynamic-programming/longest-common-subsequence.md)
 - [Print all longest common subsequence](./dynamic-programming/print-all-lcs.md)
@@ -91,7 +97,7 @@ Features:
 - [Minimum Insertion Steps to make string palindrome](./dynamic-programming/minimum-insertion-for-palindrome.md)
 - [Delete Operation for Two Strings](./dynamic-programming//delete-operations-on-two-strings.md)
 
-### DP on Stocks
+#### DP on Stocks
 - [ Best Time to Buy and Sell Stocks - I](./dynamic-programming/buy-sell-stocks-i.md)
 - [ Best Time to Buy and Sell Stocks - II](./dynamic-programming/buy-sell-stocks-ii.md)
 - [ Best Time to Buy and Sell Stocks - III](./dynamic-programming/buy-sell-stocks-iii.md)
@@ -99,23 +105,23 @@ Features:
 - [ Best Time to Buy and Sell Stocks - V](./dynamic-programming/buy-sell-stocks-v.md)
 - [ Best Time to Buy and Sell Stocks - VI](./dynamic-programming/buy-sell-stocks-vi.md)
 
-### DP on LIS
+#### DP on LIS
 - [Longest Increasing Subsequence](./dynamic-programming/longest-increasing-sequence.md)
 - [Print Longest Increasing Subsequence](./dynamic-programming/print-longest-increasing-subsequence.md)
 - [Maximum Sum Increasing Subsequence](./dynamic-programming/maximum-sum-increasing-subsequence.md)
 - [Maximum Length of Bitonic Subsequence](./dynamic-programming/max-length-of-bitonic-subsequence.md)
 - [Number of Longest Increasing Subsequence](./dynamic-programming//number-of-longest-increasing-subsequence.md)
 
-### Partition DP
+#### Partition DP
 - [Matrix Chain Multiplication](./dynamic-programming/matrix-chain-multiplication.md)
 - [Minimum Cost of cut the stick](./dynamic-programming/minimum-cost-to-cut-the-stick.md)
 - [Burst Balloons](./dynamic-programming/burst-balloons.md)
 
-### DP on Squares
+#### DP on Squares
 - [Maximum Rectangle Area with all 1s](./dynamic-programming/maximal-rectangle.md)
 - [Count square submatrices with all ones](./dynamic-programming/count-squares-with-1s.md)
 
-### Misc
+#### Misc
 
 - [0-1 Knapsack](./dynamic-programming/0-1-knapsack.md)
 - [Egg Dropping](./dynamic-programming/egg-drop.md)
