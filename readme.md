@@ -19,6 +19,7 @@ Features:
 #### Hard
 - [Lowest Common Ancestor](./binary-trees/lca-in-binary-tree.md)
 - [All Nodes Distance K in Binary Tree](./binary-trees/all-nodes-distance-k.md)
+- [Burning Tree](./binary-trees/burning-tree.md)
 
 ## Stacks and Queues
 
