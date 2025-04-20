@@ -53,6 +53,7 @@ Features:
 - [Word Search](./graphs/word-search.md)
 - [Cheapest flights within k stops](./graphs/cheapest-flights-within-k-stops.md)
 - [Network delay time](./graphs/network-delay-time.md)
+- [Number of Ways to arrive at destination](./graphs/number-of-ways-to-destination.md)
 
 #### Hard
 
