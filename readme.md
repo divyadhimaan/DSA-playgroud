@@ -52,6 +52,7 @@ Features:
 - [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)  
 - [Word Search](./graphs/word-search.md)
 - [Cheapest flights within k stops](./graphs/cheapest-flights-within-k-stops.md)
+- [Network delay time](./graphs/network-delay-time.md)
 
 #### Hard
 
