@@ -30,6 +30,7 @@ Features:
 - [Number of Next Greater Elements](./stacks-and-queues/number-of-next-greater-elements.md)
 - [Trapping Rain Water](./stacks-and-queues/trapping-rain-water.md)
 - [Largest rectangle in a Histogram](./stacks-and-queues/largest-rectangle-in-histogram.md)
+
 ## Graphs
 
 #### Easy
@@ -50,6 +51,7 @@ Features:
 - [Path with Minimum Effort](./graphs/path-with-maximum-effort.md)  
 - [Shortest Path in Binary Matrix](./graphs/shortest-path-in-binary-matrix.md)  
 - [Word Search](./graphs/word-search.md)
+- [Cheapest flights within k stops](./graphs/cheapest-flights-within-k-stops.md)
 
 #### Hard
 
