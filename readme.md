@@ -16,6 +16,7 @@ Features:
 
 
 ## Binary Search
+- [Binary Search](./binary-search/binary-search.md)
 - [First and Last Occurence of target](./binary-search/first-and-last-occurence.md)
 - 
 
