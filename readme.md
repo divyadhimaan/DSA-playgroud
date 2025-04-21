@@ -14,6 +14,11 @@ Features:
 ## Linked List
 - [Remove Nth node from End](./linkedList/remove-nth-node-from-end.md)
 
+
+## Binary Search
+- [First and Last Occurence of target](./binary-search/first-and-last-occurence.md)
+- 
+
 ## Binary Trees
 
 #### Hard
