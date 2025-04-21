@@ -17,6 +17,8 @@ Features:
 
 ## Binary Search
 - [Binary Search](./binary-search/binary-search.md)
+- [Upper Bound](./binary-search/upper-bound.md)
+- [Lower Bound](./binary-search/lower-bound.md)
 - [First and Last Occurence of target](./binary-search/first-and-last-occurence.md)
 - 
 
