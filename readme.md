@@ -21,7 +21,8 @@ Features:
 - [Lower Bound](./binary-search/lower-bound.md)
 - [Insert Position](./binary-search/search-insert-pos.md)
 - [First and Last Occurence of target](./binary-search/first-and-last-occurence.md)
-- 
+- [Number of Occurences in sorted array](./binary-search/number-of-occurences.md)
+- [Peak Element](./binary-search/peak-element.md)
 
 ## Binary Trees
 
