@@ -24,6 +24,7 @@ Features:
 - [Number of Occurences in sorted array](./binary-search/number-of-occurences.md)
 - [Search in Rotated Sorted Array](./binary-search/search-in-rotated-sorted-array.md)
 - [Search in Rotated Sorted Array II](./binary-search/search-in-rotated-sorted-array-ii.md)
+- [Minimum in Rotated Sorted array](./binary-search/minimum-in-rotated-sorted-array.md)
 - [Peak Element](./binary-search/peak-element.md)
 
 ## Binary Trees
