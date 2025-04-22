@@ -23,6 +23,7 @@ Features:
 - [First and Last Occurence of target](./binary-search/first-and-last-occurence.md)
 - [Number of Occurences in sorted array](./binary-search/number-of-occurences.md)
 - [Search in Rotated Sorted Array](./binary-search/search-in-rotated-sorted-array.md)
+- [Search in Rotated Sorted Array II](./binary-search/search-in-rotated-sorted-array-ii.md)
 - [Peak Element](./binary-search/peak-element.md)
 
 ## Binary Trees
