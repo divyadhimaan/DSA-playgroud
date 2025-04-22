@@ -25,6 +25,7 @@ Features:
 - [Search in Rotated Sorted Array](./binary-search/search-in-rotated-sorted-array.md)
 - [Search in Rotated Sorted Array II](./binary-search/search-in-rotated-sorted-array-ii.md)
 - [Minimum in Rotated Sorted array](./binary-search/minimum-in-rotated-sorted-array.md)
+- [kth rotation](./binary-search/kth-rotation.md)
 - [Peak Element](./binary-search/peak-element.md)
 
 ## Binary Trees
