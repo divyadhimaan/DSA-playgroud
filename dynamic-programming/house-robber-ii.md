@@ -113,3 +113,49 @@ public:
 > Space Complexity: O(n)
 
 
+## Space Optimized
+
+```cpp
+class Solution {
+public:
+    int robHouses(vector<int>& nums, int start, int end) {
+        
+        int n = end-start+1;
+        if(n==0)
+            return 0;
+        if(n==1)
+            return nums[start];
+
+        
+        int prev2 = nums[start];
+        int prev1 = max(nums[start], nums[start+1]);
+        int curr = prev1;
+
+        for(int idx=2;idx<n;idx++)
+        {
+            curr = max(prev1, nums[start+idx] + prev2);
+            prev2 = prev1;
+            prev1=curr;
+        }
+
+        return curr;
+    }
+    int rob(vector<int>& nums) {
+        int n= nums.size();
+        if(n==0)
+            return 0;
+        if(n==1)
+            return nums[0];
+        
+        int case1 = robHouses(nums, 0, n-2);
+        int case2 = robHouses(nums, 1, n-1);
+
+        return max(case1, case2);
+    }
+};
+
+```
+
+> Time Complexity: O(n)
+> 
+> Space Complexity: O(1)
