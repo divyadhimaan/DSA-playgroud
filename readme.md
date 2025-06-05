@@ -68,6 +68,7 @@ Features:
 - [Cheapest flights within k stops](./graphs/cheapest-flights-within-k-stops.md)
 - [Network delay time](./graphs/network-delay-time.md)
 - [Number of Ways to arrive at destination](./graphs/number-of-ways-to-destination.md)
+- [Find City with smallest number of neighbors](./graphs/find-city-with-smallest-number-of-neighbours.md)
 
 #### Hard
 
