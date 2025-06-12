@@ -1,8 +1,37 @@
 # Binary Subarrays With Sum
 
+Practice [Link](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
+
 Given a binary array `nums` and an integer `goal`, return the number of non-empty subarrays with a sum `goal`.
 
 A subarray is a contiguous part of the array.
+
+## Prefixsum + Hashmap
+
+```cpp
+class Solution {
+public:
+
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        unordered_map<int,int> prefixCount;
+        prefixCount[0]=1;
+        int sum=0,cnt=0;
+
+        for(int i=0;i<nums.size();i++)
+        {
+            sum += nums[i];
+            if(prefixCount.count(sum-goal))
+                cnt += prefixCount[sum-goal];
+            prefixCount[sum]++;
+        }
+        return cnt;
+    }
+};
+```
+
+> Time Complexity: O(n)
+>
+> Space Complexity: O(n)
 
 
 ## Sliding window Approach
