@@ -45,6 +45,11 @@ Features:
 - [Trapping Rain Water](./stacks-and-queues/trapping-rain-water.md)
 - [Largest rectangle in a Histogram](./stacks-and-queues/largest-rectangle-in-histogram.md)
 
+
+## Sliding Window / Two Pointer
+
+- [Binary Array with sum](./sliding-window-two-pointer/binary-array-with-sum.md)
+
 ## Graphs
 
 #### Easy
